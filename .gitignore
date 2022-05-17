@@ -1,0 +1,8 @@
+# Ignor directories tmp
+tmp/
+# Ignore files called "Thumbs.db" ".DS_Store"
+Thumbs.db
+.DS_Store
+#Ignore specific files, ending with the suffix _old, _backup
+*.*_old
+*.*_backup
